@@ -1,1 +1,1 @@
-b2: count 1
+b2: count 2
